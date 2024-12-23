@@ -15,4 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![snake gif](https://github.com/Mobilizes/Mobilizes/blob/output/github-contribution-grid-snake.gif)
+![Github Stats](https://github-readme-stats.vercel.app/api?username=Mobilizes&show_icons=true&theme=github_dark)
+
+![snake gif](https://github.com/Mobilizes/Mobilizes/blob/output/github-contribution-grid-snake-dark.svg)
